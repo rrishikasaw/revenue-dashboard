@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.list-main {
+	@apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mx-4 mb-5;
+}
+
+.chart-container {
+	@apply flex flex-wrap justify-evenly gap-4 my-6;
+}
+
+.menu-item {
+	@apply block text-black dark:text-gray-300 hover:text-white hover:bg-gray-700 px-4 py-2 rounded;
+}
