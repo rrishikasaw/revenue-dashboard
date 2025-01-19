@@ -2,7 +2,7 @@
 
 ## Live Project URL
 
-[http://example.com](http://example.com)
+[https://revenue-dashboard.pages.dev/](https://revenue-dashboard.pages.dev/)
 
 ## Running this project locally
 
@@ -40,13 +40,13 @@ npm run preview
 
 This project uses the following tools and technologies:
 
-  - **React**
-  - **Redux** for state management
-  - **Chart.js** using **React Charts 2** for graphs and charts
-  - **Typescript** for type safety
-  - **ESLint** for code quality
-  - **Tailwind** as the CSS framework
-  - **Vite** as the build tools
+- **React**
+- **Redux** for state management
+- **Chart.js** using **React Charts 2** for graphs and charts
+- **Typescript** for type safety
+- **ESLint** for code quality
+- **Tailwind** as the CSS framework
+- **Vite** as the build tools
 
 ## Basic Explanation
 
@@ -55,6 +55,7 @@ This project uses the following tools and technologies:
 - The project follows mobile first approach for showing UI
 
 - The Regular Components used are:
+
   - **SkeletonGraph:** This acts as the skeleton while loading of the graph data
   - **SideBar:** Sidebar menu for the application
   - **NavBar:** It contains the header with dropdown menus for notification and user avatar buttons
